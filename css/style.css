@@ -1,0 +1,47 @@
+
+body{
+    margin: 0;
+   
+}
+br{
+    border-style:none;
+    border-top-style: dotted ;
+    border-color:rgb(50, 0, 73) ;
+    border-width: "5px";
+    width: "10px";
+}
+div{
+    background-color: #71C9CE;
+}
+.forimg{
+    background-color:#CBF1F5;
+}
+
+.deprow{
+    background-color: #E3FDFD;
+    margin-top: 0px;
+    
+}
+.infos{
+    background-color: #B1AFFF;;
+}
+h4{
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.tabee{
+    background-color:#E3FDFD ;
+}
